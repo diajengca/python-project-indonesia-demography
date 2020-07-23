@@ -1,0 +1,35 @@
+kode_bps,nama,ibu_kota,populasi,luas_km,pulau
+11,Aceh,Banda Aceh,4494410.0,56500.51,Sumatra
+12,Sumatra Utara,Medan,12982204.0,72427.81,Sumatra
+13,Sumatra Barat,Padang,4846909.0,42224.65,Sumatra
+14,Riau,Pekanbaru,5538367.0,87844.23,Sumatra
+15,Jambi,Jambi,3092265.0,45348.49,Sumatra
+16,Sumatra Selatan,Palembang,7450394.0,60302.54,Sumatra
+17,Bengkulu,Bengkulu,1715518.0,19795.15,Sumatra
+18,Lampung,Bandar Lampung,7608405.0,37735.15,Sumatra
+19,Kepulauan Bangka Belitung,Pangkal Pinang,1223296.0,16424.14,Sumatra
+21,Kepulauan Riau,Tanjung Pinang,1679163.0,8084.01,Sumatra
+31,Daerah Khusus Ibukota Jakarta,Jakarta Pusat,9607787.0,740.29,Jawa
+32,Jawa Barat,Bandung,43053732.0,36925.05,Jawa
+33,Jawa Tengah,Semarang,32382657.0,32799.71,Jawa
+34,Daerah Istimewa Yogyakarta,Yogyakarta,3457491.0,3133.15,Jawa
+35,Jawa Timur,Surabaya,37476757.0,46689.64,Jawa
+36,Banten,Serang,10632166.0,9018.64,Jawa
+51,Bali,Denpasar,3890757.0,5449.37,Nusa Tenggara
+52,Nusa Tenggara Barat,Mataram,4500212.0,19708.79,Nusa Tenggara
+53,Nusa Tenggara Timur,Kupang,4683827.0,46137.87,Nusa Tenggara
+61,Kalimantan Barat,Pontianak,4395983.0,120114.32,Kalimantan
+62,Kalimantan Tengah,Palangkaraya,2212089.0,153564.5,Kalimantan
+63,Kalimantan Selatan,Banjarmasin,3626616.0,37530.52,Kalimantan
+64,Kalimantan Timur,Samarinda,3553143.0,194849.08,Kalimantan
+65,Kalimantan Utara,Tanjung Selor,738163.0,72567.49,Kalimantan
+71,Sulawesi Utara,Manado,2270596.0,13930.73,Sulawesi
+72,Sulawesi Tengah,Palu,2635009.0,68089.83,Sulawesi
+73,Sulawesi Selatan,Makassar,8034776.0,46116.45,Sulawesi
+74,Sulawesi Tenggara,Kendari,2232586.0,36757.45,Sulawesi
+75,Gorontalo,Gorontalo,1040164.0,12165.44,Sulawesi
+76,Sulawesi Barat,Mamuju,1158651.0,16787.19,Sulawesi
+81,Maluku,Ambon,1533506.0,47350.42,Maluku
+82,Maluku Utara,Sofifi,1038087.0,39959.99,Maluku
+91,Papua Barat,Manokwari,760422.0,114566.4,Papua
+94,Papua,Jayapura,2833381.0,309934.4,Papua
